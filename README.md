@@ -1,6 +1,6 @@
 # wavprocessing
 
-The following operations can be donde to 16 bit wav files:
+The following operations can be applied to 16 bit wav files:
 
 1. Amplify
 2. Diminish
